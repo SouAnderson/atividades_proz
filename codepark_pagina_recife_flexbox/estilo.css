@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-color: rgb(142, 142, 227);
+    padding: 5px;
+    margin-bottom: 10px;
+    color: rgb(255, 255, 255);
+}
+
+div{
+    margin: 20px;
+}
+
+.container{
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+}
+
+footer{
+    background-color: rgb(142, 142, 227);
+    text-align: center;
+    height: 30px;
+    padding-top: 15px;
+    color: rgb(255, 255, 255);
+
+}
